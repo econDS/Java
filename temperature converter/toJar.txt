@@ -1,0 +1,3 @@
+jar cfm converter.jar manifest.txt Temperature.class Temperature$event.class Temperature$event2.class Temperature$event3.class
+
+java -jar converter.jar
